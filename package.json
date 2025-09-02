@@ -1,0 +1,29 @@
+{
+  "name": "unimar-eventos-api",
+  "version": "1.0.0",
+  "description": "API com os próximos eventos da UNIMAR",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeAbreu12/Unimar-Eventos-API.git"
+  },
+  "keywords": [
+    "api",
+    "node",
+    "eventos",
+    "javascript",
+    "express"
+  ],
+  "author": "GuilhermeAbreu12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeAbreu12/Unimar-Eventos-API/issues"
+  },
+  "homepage": "https://github.com/GuilhermeAbreu12/Unimar-Eventos-API#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
