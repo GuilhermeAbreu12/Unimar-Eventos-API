@@ -2,9 +2,10 @@
   "name": "unimar-eventos-api",
   "version": "1.0.0",
   "description": "API com os próximos eventos da UNIMAR",
-  "main": "index.js",
+  "main": "src/app.js",
   "scripts": {
-    "test": "node index.js"
+    "start": "nodemon src/app.js",
+    "test": "echo \"No test specified\" && exit 0"
   },
   "repository": {
     "type": "git",
