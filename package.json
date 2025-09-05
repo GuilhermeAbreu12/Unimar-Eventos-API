@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/GuilhermeAbreu12/Unimar-Eventos-API#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^5.1.0"
   }
 }
