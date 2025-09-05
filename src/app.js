@@ -9,19 +9,19 @@ const unimarEvents = [
     {
         id: 'CodeXperienceUnimar2017',
         name: 'Code Xperience Unimar',
-        data: ['24/04/2017', '25/04/2017', '26/04/2017'],
+        date: ['24/04/2017', '25/04/2017', '26/04/2017'],
         link: 'https://www.google.com'
     },
     {
         id: 'UnimarTechSummit2025',
         name: 'Unimar Tech Summit',
-        data: ['15/04/2025'],
+        date: ['15/04/2025'],
         link: 'https://www.cursoemvideo.com'
     },
     {
         id: 'Bootcamp2025',
         name: 'Bootcamp Unimar: Jovem Programador',
-        data: ['25/08/2025'],
+        date: ['25/08/2025'],
         link: 'https://unimar.br'
     }
 ]
