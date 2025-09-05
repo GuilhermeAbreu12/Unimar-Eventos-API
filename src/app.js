@@ -7,22 +7,23 @@ app.use(cors())
 
 const unimarEvents = [
     {
-        id: 'CodeXperienceUnimar2017',
-        name: 'Code Xperience Unimar',
-        date: ['24/04/2017', '25/04/2017', '26/04/2017'],
-        link: 'https://www.google.com'
+        id: 'CodeXperienceUnimar2026',
+        name: 'Code Xperience Unimar 2026',
+        date: ['27/04/2026', '28/04/2026', '29/04/2026'],
+        link: 'https://forms.gle/gb84eCkaRm5BLmca9'
     },
     {
-        id: 'UnimarTechSummit2025',
-        name: 'Unimar Tech Summit',
-        date: ['15/04/2025'],
-        link: 'https://www.cursoemvideo.com'
+        id: 'UnimarTechSummit2026',
+        name: 'Unimar Tech Summit 2026',
+        date: ['15/06/2026'],
+        link: 'https://forms.gle/T3PaHT7JixKfzBfV9'
     },
     {
-        id: 'Bootcamp2025',
-        name: 'Bootcamp Unimar: Jovem Programador',
-        date: ['25/08/2025'],
-        link: 'https://unimar.br'
+        id: 'Bootcamp2026',
+        name: 'Bootcamp Unimar: Jovem Programador 2026',
+        date: ['24/08/2026', '25/08/2026', '26/08/2026', '27/08/2026', '28/08/2026', 
+            '31/08/2026', '01/09/2026', '02/09/2026', '03/09/2026', '04/09/2026'],
+        link: 'https://forms.gle/rfYCpNmdfaaDMBRP6'
     }
 ]
 // Eventos
